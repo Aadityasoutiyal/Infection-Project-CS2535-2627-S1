@@ -1,0 +1,9 @@
+DiseaseName,Infectiousness,Transmissibility,Lethality,Recoverability,ImmunityEfficacy
+covid,50.0,200000.0,20.0,60.0,100.0
+Day,Susceptible,Infected,Recovered,Dead
+1,999,219,578,204
+2,999,51,709,241
+3,999,7,738,256
+4,999,2,740,259
+5,999,2,740,259
+6,999,0,742,259
